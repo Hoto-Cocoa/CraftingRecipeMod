@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ {
+    "type": "forge:ore_dict",
+    "ore": "dustRedstone"
+  }, {
+    "type": "forge:ore_dict",
+    "ore": "dustRedstone"
+  }, {
+    "item": "cccrftr:base"
+  } ],
+  "result": {
+    "item": "minecraft:coal",
+    "count": 1,
+    "data": 0
+  }
+}

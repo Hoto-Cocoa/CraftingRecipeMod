@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ {
+    "type": "forge:ore_dict",
+    "ore": "ingotIron"
+  }, {
+    "type": "forge:ore_dict",
+    "ore": "ingotIron"
+  }, {
+    "type": "forge:ore_dict",
+    "ore": "ingotIron"
+  }, {
+    "type": "forge:ore_dict",
+    "ore": "ingotIron"
+  }, {
+    "item": "cccrftr:base"
+  } ],
+  "result": {
+    "item": "minecraft:ender_pearl",
+    "count": 1,
+    "data": 0
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "cccrftr",
+    "name": "CocoaCraft CRM",
+    "description": "CocoaCraft Custom Crafting Recipes Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://hoto.us",
+    "updateUrl": "",
+    "authorList": ["Cocoa Hoto"],
+    "credits": "CocoaCraft Users",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

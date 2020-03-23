@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ {
+    "type": "forge:ore_dict",
+    "ore": "gemEmerald"
+  }, {
+    "item": "cccrftr:base"
+  } ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2,
+    "data": 0
+  }
+}
