@@ -19,7 +19,7 @@ import java.util.Objects;
 public class CocoaCraftCraftingRecipesMod  {
 	public static final String MODID = "cccrftr";
 	public static final String NAME = "CocoaCraft CRM";
-	public static final String VERSION = "5.0";
+	public static final String VERSION = "5.1";
 
 	private static Logger logger;
 
@@ -65,5 +65,6 @@ class ItemBase extends Item {
 		setMaxDamage(0);
 		setMaxStackSize(1);
 		setCreativeTab(CreativeTabs.MISC);
+		setContainerItem(this);
 	}
 }
