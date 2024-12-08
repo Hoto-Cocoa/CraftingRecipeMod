@@ -2,18 +2,18 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [ {
     "type": "forge:ore_dict",
-    "ore": "gemDiamond"
+    "ore": "blockDiamond"
   }, {
     "type": "forge:ore_dict",
-    "ore": "gemDiamond"
+    "ore": "blockDiamond"
   }, {
     "type": "forge:ore_dict",
-    "ore": "gemDiamond"
+    "ore": "blockDiamond"
   }, {
     "type": "forge:ore_dict",
-    "ore": "gemDiamond"
+    "ore": "blockDiamond"
   }, {
-    "item": "cccrftr:base"
+    "item": "projecte:item.pe_philosophers_stone"
   } ],
   "result": {
     "item": "tconstruct:materials",
