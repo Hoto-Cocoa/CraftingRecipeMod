@@ -12,7 +12,7 @@ import java.util.Objects;
 public class CocoaCraftCraftingRecipesMod  {
 	public static final String MODID = "cccrftr";
 	public static final String NAME = "CocoaCraft CRM";
-	public static final String VERSION = "13.0";
+	public static final String VERSION = "13.1";
 
 	private static Logger logger;
 
