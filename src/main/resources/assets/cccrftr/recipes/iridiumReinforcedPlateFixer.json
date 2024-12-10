@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ipi",
+        "pdp",
+        "ipi"
+    ],
+    "key": {
+        "i": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIridium"
+        },
+        "p": {
+            "type": "forge:ore_dict",
+            "ore": "plateAdvancedAlloy"
+        },
+        "d": {
+            "type": "forge:ore_dict",
+            "ore": "gemDiamond"
+        }
+    },
+    "result": {
+        "item": "ic2:crafting",
+        "count": 1,
+        "data": 4
+    }
+}

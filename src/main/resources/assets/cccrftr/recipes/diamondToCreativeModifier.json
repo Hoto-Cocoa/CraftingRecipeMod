@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [ {
-    "type": "forge:ore_dict",
-    "ore": "blockDiamond"
-  }, {
-    "type": "forge:ore_dict",
-    "ore": "blockDiamond"
-  }, {
-    "type": "forge:ore_dict",
-    "ore": "blockDiamond"
-  }, {
-    "type": "forge:ore_dict",
-    "ore": "blockDiamond"
-  }, {
-    "item": "projecte:item.pe_philosophers_stone"
-  } ],
-  "result": {
-    "item": "tconstruct:materials",
-    "count": 1,
-    "data": 50
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [ {
+        "type": "forge:ore_dict",
+        "ore": "blockDiamond"
+    }, {
+        "type": "forge:ore_dict",
+        "ore": "blockDiamond"
+    }, {
+        "type": "forge:ore_dict",
+        "ore": "blockDiamond"
+    }, {
+        "type": "forge:ore_dict",
+        "ore": "blockDiamond"
+    }, {
+        "item": "projecte:item.pe_philosophers_stone"
+    } ],
+    "result": {
+        "item": "tconstruct:materials",
+        "count": 1,
+        "data": 50
+    }
 }

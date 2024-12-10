@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ipi",
+        "csc",
+        "ipi"
+    ],
+    "key": {
+        "i": {
+            "type": "forge:ore_dict",
+            "ore": "nuggetIridium"
+        },
+        "p": {
+            "type": "forge:ore_dict",
+            "ore": "plateAdvancedAlloy"
+        },
+        "c": {
+            "type": "forge:ore_dict",
+            "ore": "plateCarbon"
+        },
+        "s": {
+            "type": "forge:ore_dict",
+            "ore": "plateSteel"
+        }
+    },
+    "result": {
+        "item": "ic2:crafting",
+        "count": 1,
+        "data": 4
+    }
+}
